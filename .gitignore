@@ -2,3 +2,5 @@
 build/
 .vscode/
 *.log
+.idea/
+cmake-build*
